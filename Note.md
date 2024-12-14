@@ -1,7 +1,6 @@
 # Ultimate Incremental Game II -- Update log tracker
 This game updated (as of version 1.0.0 update tree)
-# 0
-## times
+# 0 times
 
 ---------------------------------
 How to use:
